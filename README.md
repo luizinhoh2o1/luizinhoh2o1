@@ -10,7 +10,7 @@
   <img align="center" alt="J" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="NS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="S" height="50" width="50" src="https://static.spigotmc.org/img/spigot-og.png">
-  <img align="center" alt="JS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="JS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tavascript/tavascript-original.svg">
   <img align="center" alt="React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </div>
 <br>
