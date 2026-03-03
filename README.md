@@ -12,9 +12,6 @@
 
 <!-- Profile Views + GitHub Followers -->
 <img src="https://komarev.com/ghpvc/?username=luizinhoh2o1&style=for-the-badge&color=00ff41&labelColor=0d1117" alt="Profile Views"/>
-<a href="https://github.com/luizinhoh2o1?tab=followers">
-  <img src="https://img.shields.io/github/followers/luizinhoh2o1?style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github" alt="Followers"/>
-</a>
 
 </div>
 
